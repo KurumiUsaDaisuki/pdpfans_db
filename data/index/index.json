@@ -1,0 +1,52 @@
+{
+  "code": 0,
+  "msg": "OK",
+  "data": {
+    "title": "Providence",
+    "subtitle": "Fan Site",
+    "theme_liver": {
+      "name": "安久毬亚",
+      "cover": "https://gitlab.com/kurumi-usa-daisuki/pdpfans_db/-/raw/master/resources/images/cover_akumaria.png",
+      "icon": "https://gitlab.com/kurumi-usa-daisuki/pdpfans_db/-/raw/master/resources/icons/reshot-icon-devil.svg",
+      "primary_color": "",
+      "secondary_color": "",
+      "desc": "",
+      "comment": ""
+    },
+    "menu": {
+      "title": "快捷链接",
+      "items": [
+        {
+          "id": 0,
+          "icon": null,
+          "name": "官方网站",
+          "action": "open-url:https://pdplive.net/"
+        },
+        {
+          "id": 1,
+          "icon": null,
+          "name": "企划主页",
+          "action": "open-url:https://space.bilibili.com/486301412"
+        },
+        {
+          "id": 2,
+          "icon": null,
+          "name": "积分查询",
+          "action": "open-url:https://pdpmember.net/"
+        },
+        {
+          "id": 3,
+          "icon": null,
+          "name": "积分商城",
+          "action": "show-toast:即将上线，敬请期待"
+        }
+      ]
+    },
+    "copyright": {
+      "year": "2022-2022",
+      "orgnizer": "KUD",
+      "link": "https://gitlab.com/kurumi-usa-daisuki",
+      "hint": "本网站为个人搭建，与Providence企划官方毫无关系"
+    }
+  }
+}
